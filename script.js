@@ -32,3 +32,5 @@ const excluirTarefa = (pos) => {
   updateLocalStorage()
   mostrarTarefas()
 }
+
+//comentario de teste...
